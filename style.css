@@ -1,0 +1,117 @@
+.antraste
+{
+    background-image: url("dykuma.jpg");
+    height: 200px;
+    background-size:cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.poraste
+{
+    background-image: url("dykuma.jpg");
+    height: 100px;
+    background-repeat: repeat;
+    background-position: bottom;
+}
+
+.straipsniai
+{
+    background-color: rgb(226, 191, 109);
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    text-align: justify;
+    width: 70%;
+}
+
+
+.pagrindas
+{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    background-color: rgb(226, 191, 109);
+    max-width: 1200px;  
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: justify;
+}
+
+.pagrindas2{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.straipsnis
+{
+    width: 46%;
+    margin: 15px;
+}
+
+.autorius
+{
+    color: rgb(124, 0, 0);
+    font-weight: 800;
+}
+
+.sonas
+{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    width: 25%;
+    background-color: beige;
+    position: relative;
+    
+}
+
+.iframe{
+    padding: 200px;
+}
+.skydelis
+{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40%;
+    padding: 20px;
+    text-align: justify;
+
+    background-color: antiquewhite;
+}
+
+.prielipa {
+    position: sticky;
+    background-color: crimson;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    margin-left: -100px;
+    bottom: 3px;
+    font-size: large;
+}
+
+.topnav{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+.topnav a {
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+h1{
+    text-align: center;
+}
